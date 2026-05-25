@@ -1,0 +1,25 @@
+Metadata-Version: 2.4
+Name: harl
+Version: 1.0.0
+Summary: PyTorch implementation of HARL Algorithms
+Home-page: https://github.com/PKU-MARL/HARL
+Author: PKU-MARL
+License: MIT
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Python: >=3.8
+Requires-Dist: torch>=1.9.0
+Requires-Dist: pyyaml>=5.3.1
+Requires-Dist: tensorboard>=2.2.1
+Requires-Dist: tensorboardX
+Requires-Dist: setproctitle
+Dynamic: author
+Dynamic: classifier
+Dynamic: home-page
+Dynamic: license
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
